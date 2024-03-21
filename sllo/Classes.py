@@ -58,7 +58,7 @@ class Interface:
         :rtype: SpotifyLink
         """
         args = argv[2:]
-        if args != 1:
+        if len(args) != 1:
             raise ValueError("Bad usage")
         return SpotifyLink(args[0])
 
