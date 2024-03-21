@@ -8,6 +8,21 @@
 slopen https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8?si=a4ec356b33fd49d3
 ```
 
+## Install:
+
+| **reqs:**  |
+| - |
+| spotify |
+| python |
+| python-pip |
+| dbus |
+
+**from [git.orudo.ru](https://git.orudo.ru/trueold89/SpotifyLinuxOpen/releases)**
+```shell
+pip install https://git.orudo.ru/trueold89/SpotifyLinuxOpen/releases/download/v0.1/SpotifyLinuxOpen-0.1.tar.gz
+```
+
+
 ## Build:
 
 **Build python pkg**
